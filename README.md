@@ -5,6 +5,7 @@
 
 * Uses Huffman Coding for Text Compression
 * Made with JAVASCRIPT , HTML and CSS
+* some stuff
 
 ## About
 
