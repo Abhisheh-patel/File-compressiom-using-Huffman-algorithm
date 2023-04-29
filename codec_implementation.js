@@ -189,8 +189,8 @@ class Codec {
             }
             binary_string += curr_binary;
         }
-
-        /// remove padding
+         
+        /// remove padding from 
         binary_string = binary_string.slice(0, -padding_length);
 
         /// decode the data using binary string and huffman tree

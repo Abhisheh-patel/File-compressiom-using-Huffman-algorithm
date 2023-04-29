@@ -1,11 +1,10 @@
-<!-- Author : Samyak Jain
-	Created on : 30 June 2020 -->
+<!-- Author : Abhishek patel
+	Created on : 30 july 2022 -->
 
 # Text File Compressor Web App
 
 * Uses Huffman Coding for Text Compression
 * Made with JAVASCRIPT , HTML and CSS
-* Website Link : https://sam15jain.github.io/file_compressor/
 
 ## About
 
